@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2838"/><stop offset="1" stop-color="#0f1720"/></linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.55"><stop offset="0" stop-color="#66c0f4" stop-opacity=".35"/><stop offset="1" stop-color="#66c0f4" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#glow)"/>
+  <g transform="translate(1040 160)" fill="none" stroke="#66c0f4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="-86" y="-70" width="78" height="62" rx="8"/><rect x="8" y="-70" width="78" height="62" rx="8"/><rect x="-86" y="8" width="172" height="62" rx="8"/></g>
+  <text x="80" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#ffffff">Steam Showcase</text>
+  <text x="82" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#ffffff" fill-opacity=".78">Your Steam profile, as a board you build yourself.</text>
+  <rect x="82" y="238" width="120" height="6" rx="3" fill="#66c0f4"/>
+</svg>
